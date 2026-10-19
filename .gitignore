@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+data/z14/
+output/*.html
+
+.gh-config/
